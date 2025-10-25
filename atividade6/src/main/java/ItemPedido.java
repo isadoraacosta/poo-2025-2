@@ -1,3 +1,5 @@
+import poo.Produto;
+
 public class ItemPedido {
 
     private Produto produto;

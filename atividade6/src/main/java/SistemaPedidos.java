@@ -1,3 +1,5 @@
+import poo.Produto;
+
 import java.time.LocalDate;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
