@@ -1,0 +1,26 @@
+[ {
+  "id" : "\"PROD001\"",
+  "nome" : "\"Notebook Gamer\"",
+  "preco" : 7500.5,
+  "descricao" : "\"Notebook de alta performance"
+}, {
+  "id" : "\"PROD002\"",
+  "nome" : "\"Mouse sem fio\"",
+  "preco" : 249.9,
+  "descricao" : "\"Mouse ergonômico com 6 botões e bateria de longa duração.\""
+}, {
+  "id" : "\"PROD003\"",
+  "nome" : "\"Teclado Mecânico RGB\"",
+  "preco" : 450.0,
+  "descricao" : "\"Teclado com switches blue"
+}, {
+  "id" : "\"PROD004\"",
+  "nome" : "\"Monitor Gamer 27 polegadas\"",
+  "preco" : 1800.0,
+  "descricao" : "\"Monitor com 144Hz de taxa de atualização e 1ms de resposta.\""
+}, {
+  "id" : "\"PROD005\"",
+  "nome" : "\"Cadeira Gamer\"",
+  "preco" : 1250.75,
+  "descricao" : "\"Cadeira ergonômica com suporte lombar e braços ajustáveis.\""
+} ]
